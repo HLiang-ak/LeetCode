@@ -19,6 +19,6 @@ public:
             fast = fast->next->next;
         }
         
-        return slow
+        return slow;
     }
 };
